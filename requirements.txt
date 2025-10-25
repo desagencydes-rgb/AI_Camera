@@ -1,0 +1,26 @@
+# Core libraries
+opencv-python
+numpy
+Pillow
+imutils
+
+# Face recognition dependencies
+cmake
+dlib
+face_recognition
+
+# PyTorch (CPU version by default, change if GPU needed)
+torch
+torchvision
+torchaudio
+
+# YOLOv8 / object detection
+ultralytics
+
+# Optional utilities
+requests
+
+
+#how to use
+#.\venv\Scripts\Activate.ps1
+#pip install -r requirements.txt
