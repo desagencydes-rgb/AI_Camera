@@ -108,7 +108,7 @@ AI_Camera/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/desagencydes-rgb/AI_Camera
 cd AI_Camera
 ```
 
@@ -507,3 +507,4 @@ For technical support and questions:
 **Version**: 4.0  
 **Last Updated**: 2024  
 **Compatibility**: Python 3.8+, Windows 10/11, OpenCV 4.x
+
